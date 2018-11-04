@@ -1,2 +1,2 @@
-# Médias Móveis e Modelos Autorregressivos de Médias Móveis
-Material didático para aula 6 de Econometria Avançada- Séries Temporais na USJT.
+# A6-Econometria
+# Econometria Avançada Aula 6
